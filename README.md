@@ -20,14 +20,11 @@ Projeto com objetivo de demonstrar habilidades técnicas em marketing, frontend 
 
 4. Compile o código:
    ```bash
-   npm start
-
-5. Realize testes (componentes):
-   ```bash
-   npx cypress run
+   nodemon start
 
 ## Links Úteis :link:
 
+- <a href="https://github.com/RuyLuques/RL-Nibo-frontend">Frontend</a>
 - <a href="https://www.linkedin.com/in/ruyluques/">LinkedIn</a>
 - <a href="https://www.ruyluques.com.br/">Portfólio</a>
 - <a href="https://www.youtube.com/@ruyluques/videos">YouTube</a>
