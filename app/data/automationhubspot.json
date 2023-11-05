@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Create, add and edit contacts and properties",
+    "description": "Practical examples",
+    "link": "https://app.hubspot.com/user-guide/44316189?via=home",
+    "image": "http://localhost:8000/public/img/hubspot.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Created LandingPage",
+    "description": "Practical examples",
+    "link": "https://ruy-luques-44316189.hubspotpagebuilder.com/-temporary-slug-79ea986b-f9c5-4e5d-8cae-8c00878dbfb9?hs_preview=BQBYlYgC-143862272560",
+    "image": "http://localhost:8000/public/img/hubspot.jpg"
+  }
+]

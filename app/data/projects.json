@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "title": "Pages",
+      "link": "services",
+      "description": "Practical examples",
+      "image": "http://localhost:8000/public/img/landingpage.jpg"
+    },
+    {
+      "id": 2,
+      "title": "SEO",
+      "link": "seo",
+      "description": "Practical examples",
+      "image": "http://localhost:8000/public/img/seo.png"
+    },
+    {
+      "id": 3,
+      "title": "Backend",
+      "link": "backend",
+      "description": "Practical examples",
+      "image": "http://localhost:8000/public/img/backend.png"
+    },
+    {
+      "id": 4,
+      "title": "Automation Zapier",
+      "link": "automationzapier",
+      "description": "Practical examples",
+      "image": "http://localhost:8000/public/img/zapier.png"
+    },
+    {
+      "id": 5,
+      "title": "Automation Hubspot",
+      "link": "automationhubspot",
+      "description": "Practical examples",
+      "image": "http://localhost:8000/public/img/hubspot.jpg"
+    }
+  ]
+  

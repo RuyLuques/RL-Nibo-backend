@@ -1,0 +1,103 @@
+[
+    {
+      "id": 1,
+      "title": "Google Analytics",
+      "image": "http://localhost:8000/public/icons/googleanalytics.png"
+    },
+    {
+      "id": 2,
+      "title": "CSS",
+      "image": "http://localhost:8000/public/icons/css.png"
+    },
+    {
+      "id": 3,
+      "title": "HTML",
+      "image": "http://localhost:8000/public/icons/html.png"
+    },
+    {
+      "id": 4,
+      "title": "Hubspot",
+      "image": "http://localhost:8000/public/icons/hubspot.png"
+    },
+    {
+      "id": 5,
+      "title": "Java",
+      "image": "http://localhost:8000/public/icons/java.png"
+    },
+    {
+      "id": 6,
+      "title": "Javascript",
+      "image": "http://localhost:8000/public/icons/js.png"
+    },
+    {
+      "id": 7,
+      "title": "Mysql",
+      "image": "http://localhost:8000/public/icons/mysql.png"
+    },
+    {
+      "id": 8,
+      "title": "Zapier",
+      "image": "http://localhost:8000/public/icons/robo.png"
+    },
+    {
+      "id": 9,
+      "title": "Typescript",
+      "image": "http://localhost:8000/public/icons/ts.png"
+    },
+    {
+      "id": 10,
+      "title": "Git",
+      "image": "http://localhost:8000/public/icons/git.png"
+    },
+    {
+      "id": 11,
+      "title": "MongoDB",
+      "image": "http://localhost:8000/public/icons/mongodb.png"
+    },
+    {
+      "id": 12,
+      "title": "Docker",
+      "image": "http://localhost:8000/public/icons/docker.png"
+    },
+    {
+      "id": 13,
+      "title": "NodeJS",
+      "image": "http://localhost:8000/public/icons/nodejs.png"
+    },
+    {
+      "id": 14,
+      "title": "Vue",
+      "image": "http://localhost:8000/public/icons/vue.png"
+    },
+    {
+      "id": 15,
+      "title": "ReactJS",
+      "image": "http://localhost:8000/public/icons/reactjs.png"
+    },
+    {
+      "id": 16,
+      "title": "Angular",
+      "image": "http://localhost:8000/public/icons/angular.png"
+    },
+    {
+      "id": 17,
+      "title": "Jest",
+      "image": "http://localhost:8000/public/icons/jest.jpg"
+    },
+    {
+      "id": 18,
+      "title": "Cypress",
+      "image": "http://localhost:8000/public/icons/cypress.png"
+    },
+    {
+      "id": 19,
+      "title": "Vitest",
+      "image": "http://localhost:8000/public/icons/vitest.svg"
+    },
+    {
+      "id": 20,
+      "title": "AWS",
+      "image": "http://localhost:8000/public/icons/aws.png"
+    }
+  ]
+  

@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Email marketing",
+        "price": 999.99
+    },
+    {
+        "id": 2,
+        "name": "Blog Post",
+        "price": 999.99
+    },
+    {
+        "id": 3,
+        "name": "Landing Page",
+        "price": 999.99
+    },
+    {
+        "id": 4,
+        "name": "Consulting",
+        "price": 999.99
+    }
+]
+  
