@@ -33,13 +33,21 @@ app.use("/services", servicesRoute);
 const backendRoute = require("./app/routes/backend");
 app.use("/backend", backendRoute);
 
-app.post('/submit', (req, res) => {
+app.post('/submitHotsite', (req, res) => {
   const { name, email, phone } = req.body;
   res.json({ success: true, message: 'Dados recebidos com sucesso!', name, email, phone });
 });
 
 const hotsiteRoute = require("./app/routes/hotsite");
 app.use("/hotsite", hotsiteRoute);
+
+const landingpageRoute = require("./app/routes/landingpage");
+app.use("/landingpage", landingpageRoute);
+
+app.post('/submitLandingpage', (req, res) => {
+  const { name, email, message } = req.body;
+  res.json({ ok: true, message: 'Dados recebidos com sucesso!', name, email, message });
+});
 
 app.listen(port, () => {
   console.log(`API está rodando em http://localhost:${port}`);

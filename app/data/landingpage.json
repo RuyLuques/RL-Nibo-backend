@@ -1,0 +1,36 @@
+[
+    {
+      "id": 1,
+      "title": "Welcome to Landing Page",
+      "subtitle": "Lorem Ipsum is simply... ",
+      "subtitleLink": "dummy text",
+      "buttonLearn": "Learn More",
+      "buttonContact": "Contact",
+      "cardAbout": "What is Lorem Ipsum?",
+      "descriptionAbout": "Lorem Ipsum is simply dummy text of the printing and typesetting industry..",
+      "subdescriptionAbout": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "cardAdvantage1": "What is Lorem Ipsum?",
+      "descriptionAdvantage1": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "cardAdvantage2": "What is Lorem Ipsum?",
+      "descriptionAdvantage2": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "cardAdvantage3": "What is Lorem Ipsum?",
+      "descriptionAdvantage3": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "cardService1": "What is Lorem Ipsum?",
+      "descriptionService1": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "cardService2": "What is Lorem Ipsum?",
+      "descriptionService2": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "cardService3": "What is Lorem Ipsum?",
+      "descriptionService3": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "cardService4": "What is Lorem Ipsum?",
+      "descriptionService4": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "cardService5": "What is Lorem Ipsum?",
+      "descriptionService5": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "titleForm1": "What is Lorem Ipsum?",
+      "subtitleForm1": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "formFiedlName": "Name",
+      "formFiedlEmail": "Email",
+      "formFiedlMessage": "Message",
+      "formButton": "Send"
+    }
+  ]
+  
